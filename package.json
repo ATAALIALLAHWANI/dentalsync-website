@@ -1,0 +1,11 @@
+{
+  "name": "dentalsync-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "DentalSync marketing website — dental clinic management system with AI voice documentation. Plain static HTML/CSS/JS, no build step required.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 5173",
+    "start": "npx --yes serve . -l 5173",
+    "build": "echo 'No build step needed — this is a static site. Deploy the project folder as-is.'"
+  }
+}
