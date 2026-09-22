@@ -1,0 +1,13 @@
+{
+  "name": "DentalSync",
+  "short_name": "DentalSync",
+  "description": "Dental Clinic Management System",
+  "icons": [
+    { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#1a2942",
+  "background_color": "#fafbfc",
+  "display": "standalone",
+  "start_url": "/"
+}
